@@ -1,0 +1,71 @@
+{
+  "h1": {
+    "representative_prediction_panels": "figures_full_day/h1/representative_prediction_panels_full_day_h1.pdf",
+    "single_series_full_day": "figures_full_day/h1/single_series_full_day_h1.pdf",
+    "improvement_distribution": "figures_full_day/h1/improvement_distribution_h1.pdf",
+    "best_feat": {
+      "K": 6,
+      "seed": 6
+    },
+    "best_rand": {
+      "K": 9,
+      "seed": 6
+    },
+    "best_ours": {
+      "K": 7,
+      "seed": 8
+    },
+    "chosen_series": [
+      309,
+      339,
+      285,
+      179
+    ]
+  },
+  "h3": {
+    "representative_prediction_panels": "figures_full_day/h3/representative_prediction_panels_full_day_h3.pdf",
+    "single_series_full_day": "figures_full_day/h3/single_series_full_day_h3.pdf",
+    "improvement_distribution": "figures_full_day/h3/improvement_distribution_h3.pdf",
+    "best_feat": {
+      "K": 6,
+      "seed": 6
+    },
+    "best_rand": {
+      "K": 9,
+      "seed": 6
+    },
+    "best_ours": {
+      "K": 7,
+      "seed": 8
+    },
+    "chosen_series": [
+      309,
+      339,
+      285,
+      179
+    ]
+  },
+  "h6": {
+    "representative_prediction_panels": "figures_full_day/h6/representative_prediction_panels_full_day_h6.pdf",
+    "single_series_full_day": "figures_full_day/h6/single_series_full_day_h6.pdf",
+    "improvement_distribution": "figures_full_day/h6/improvement_distribution_h6.pdf",
+    "best_feat": {
+      "K": 6,
+      "seed": 6
+    },
+    "best_rand": {
+      "K": 9,
+      "seed": 6
+    },
+    "best_ours": {
+      "K": 7,
+      "seed": 8
+    },
+    "chosen_series": [
+      309,
+      339,
+      285,
+      179
+    ]
+  }
+}
